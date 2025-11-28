@@ -1,0 +1,37 @@
+* {
+    margin: 0%;
+    padding: 0%;
+
+}
+.inputdiv {
+    border: 2px solid red;
+    width: 350px;
+    margin: auto;
+    margin-top: 100px;
+    text-align: center;
+    border-radius: 8px;
+    box-shadow: 0 0 7px black;
+    padding: 10px 0;
+}
+label{
+    margin-right: 70px;
+    font-size: 18px;
+    color: red;
+}
+input{
+    padding: 5px 0;
+    margin-top: 10px;
+}
+button {
+    padding: 7px 15px;
+    background-color: yellow;
+    border-radius: 7px;
+    color: blueviolet;
+    font-weight: 550;
+    transition: 0.6s;
+    margin-bottom: 20px;
+}
+button:hover {
+    background-color: black;
+    color: white;
+}
