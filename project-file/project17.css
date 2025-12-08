@@ -1,0 +1,12 @@
+body {
+    background-color: bisque;
+}
+
+#productList {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 20px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
